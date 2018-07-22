@@ -1,0 +1,51 @@
+Uncapped MVC Outline
+
+
+I would like to design and develop an application that would allow individuals who are passionate about craft beer to
+communicate with one another about the beers they enjoy while also keeping a personal and interactive index of each
+beer they have tasted.
+This application would also allow users to inform their friends of where they could find some of the more elusive and harder
+to find beers and whether or not some beers are worth seeking based on what other users have to say about them.
+
+
+
+
+This application would allow anyone to have their own page so having it include user functionality is a must.
+When booting the application users will be greeted by a home page that is an index of all the "check-ins" from their friends,
+similar to a Facebook or Twitter vibe.
+As i eluded to before this application will allow you to add friends and create a comfortable forum with those friends to discuss
+your thoughts on recent beers you all have had.
+When checking in beers you will do so by: Brewery, Name of beer, Style, Vintage, Description, and a Rating.
+Users will be able to search through all beers that have been checked in based on the keywords described above; this will allow
+them to view what others have thought about a beer they are interested in to help them decide if they would like to purchase it.
+Eventually i'd like to implement a "Purchased At" function to allow users to know exactly where they can find that beer they've
+heard so much about.
+
+
+
+
+Required Technologies:
+Java
+JavaScript
+Spring Boot
+Hibernate
+Html
+ThymeLeaf
+Css
+Bootstrap
+My SQL
+(Probably More)
+
+
+Through the course of building this application I will need to learn at least some JavaScript to make a more user friendly and
+aesthetically pleasing front-end.
+Learning how to add some form of mapping/gps would be a great addition to the "Purchased At" function I described before. If
+users could just click a venue and be given an address and directions, that would make finding your newest beers even easier.
+
+
+User Stories:
+https://www.pivotaltracker.com/n/projects/2186293
+
+
+
+
